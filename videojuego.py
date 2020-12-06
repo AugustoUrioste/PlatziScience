@@ -12,7 +12,7 @@ def videojuego():
         elif numero < objetivo:
             numero = int(input('Elige un numero mas grande: '))
         else:
-            print ('GANASTE!!')
+            print ('GANASTE LOCO LINDO!!')
             print ('Tu puntaje es: ' + str(puntaje))
             break
 
