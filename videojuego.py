@@ -13,7 +13,7 @@ def videojuego():
             numero = int(input('Elige un numero mas grande: '))
         else:
             print ('GANASTE LOCO LINDO!!')
-            print ('Tu puntaje es: ' + str(puntaje))
+            print ('Tu puntaje es el siguiente: ' + str(puntaje))
             break
 
 
