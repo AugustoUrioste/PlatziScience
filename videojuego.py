@@ -1,6 +1,7 @@
 import random
 
 def videojuego():
+    print('Esta es la version experimental del videojuego')
     print('Bienvenido, adivina el numero aleatorio, mientras menos puntaje tengas mejor')
     puntaje = 0
     objetivo = random.randint(0,100)
